@@ -24,3 +24,7 @@ button {
     background: rgb(94, 0, 128);
     color: aliceblue;
 }
+.colorBoton:hover {
+    background: rgb(94, 0, 128);
+    color: aliceblue;
+}
