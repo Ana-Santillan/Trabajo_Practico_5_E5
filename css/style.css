@@ -1,0 +1,45 @@
+body{
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    flex-grow: 1;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button {
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+.colorBoton {
+    background: rgb(94, 0, 128);
+    color: aliceblue;
+}
+.colorBoton:hover {
+    background: rgb(94, 0, 128);
+    color: aliceblue;
+}
+
+.textMorado{
+    text-shadow: 0 0 5px #9413bb,
+    0 0 10px #9413bb,
+    0 0 15px #9413bb,
+    0 0 25px #9413bb,
+    0 0 30px #9413bb,
+    0 0 45px #9413bb,
+    0 0 50px #9413bb,
+    0 0 65px #9413bb,
+    0 0 75px #9413bb,
+    0 0 85px #9413bb,
+    0 0 95px #9413bb,
+    0 0 100px #9413bb;
+}
